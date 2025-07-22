@@ -7,4 +7,6 @@ a. Load the raw IoT Sensor data
 b. Clean, validate and transform sensor data
 c. Calculate machine health KPIs
 d. Store cleaned data + KPIs in SQLite
-e. Visualise trends and anomalies
+e. Visualise trends and anomalies using matplotlib
+f. Visualise machine alerts using Streamlit
+g. Orchestrate tasks using Apache Airflow

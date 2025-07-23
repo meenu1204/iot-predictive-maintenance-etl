@@ -24,3 +24,10 @@ g. Orchestrate tasks using Apache Airflow
 - SQLite
 - Docker
 - Git & GitHub
+
+## Installation instructions:
+-----------------------------
+1. Clone the repo
+```bash
+git clone https://github.com/meenu1204/iot-predictive-maintenance-etl.git
+cd iot-predictive-maintenance-etl

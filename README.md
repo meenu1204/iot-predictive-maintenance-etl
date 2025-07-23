@@ -26,8 +26,14 @@ g. Orchestrate tasks using Apache Airflow
 - Git & GitHub
 
 ## Installation instructions:
------------------------------
 1. Clone the repo
 ```bash
 git clone https://github.com/meenu1204/iot-predictive-maintenance-etl.git
 cd iot-predictive-maintenance-etl
+
+## Running the pipeline 
+-----------------------------
+To run ETL script:
+```bash
+cd iot-predictive-maintenance-etl
+python3 -m src.main.main
